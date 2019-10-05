@@ -1,0 +1,12 @@
+#menubar {
+	height: 200px;
+	background-color: #000000;
+}
+#main {
+	height: 800px;
+	background-color: #004d00;
+}
+#footer {
+	height: 300px;
+	background-color: #ffe066;
+}
